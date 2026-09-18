@@ -19,9 +19,6 @@
 <a href="mailto:ajitgoud.career@gmail.com">
   <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" />
 </a>
-<a href="https://github.com/ajitgoud">
-  <img src="https://img.shields.io/github/followers/ajitgoud?style=for-the-badge&color=8B5CF6&labelColor=0f172a&logo=github&logoColor=white&label=Followers" />
-</a>
 
 </div>
 
@@ -166,10 +163,6 @@ public class AjitGoud implements BackendEngineer {
 <a href="https://www.ajitgoud.tech/"><img src="https://img.shields.io/badge/🌐_Portfolio-8B5CF6?style=for-the-badge&labelColor=0f172a" /></a>
 <a href="https://www.linkedin.com/in/ajit-goud/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" /></a>
 <a href="mailto:ajitgoud.career@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ajitgoud&label=Profile+Views&color=8B5CF6&style=for-the-badge&labelColor=0f172a" />
 
 <br/><br/>
 
