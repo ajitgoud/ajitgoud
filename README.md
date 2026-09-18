@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:312e81&height=280&section=header&text=Ajit%20Goud&fontSize=70&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20·%20Backend%20%26%20Distributed%20Systems%20·%20AI&descAlignY=58&descSize=18&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=timeGradient&reversal=false&text=Ajit+Goud&textBg=false&fontSize=64&fontAlign=50&fontAlignY=41&animation=fadeIn&rotate=0&strokeWidth=0&desc=Software+Engineer+%7C+Backend+%7C+Distributed+Systems+%7C+AI&descSize=16&descAlign=50&descAlignY=60" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=680&lines=Building+scalable+backend+systems+with+Java+%26+Spring+Boot;Designing+event-driven%2C+distributed+architectures;Kafka+%7C+Redis+%7C+PostgreSQL+%7C+Microservices;Exploring+how+AI+fits+into+modern+backend+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=A78BFA&center=false&vCenter=true&random=false&width=680&lines=Building+scalable+backend+systems+with+Java+%26+Spring+Boot;Designing+event-driven%2C+distributed+architectures;Kafka+%7C+Redis+%7C+PostgreSQL+%7C+Microservices;Exploring+how+AI+fits+into+modern+backend+systems" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -42,7 +42,8 @@ public class AjitGoud implements BackendEngineer {
 
     private final List<String> stack = List.of(
         "Java", "Spring Boot", "Microservices",
-        "Kafka", "Redis", "PostgreSQL"
+        "Kafka", "Redis", "PostgreSQL", "Docker", "Kubernetes", "AWS",
+        "LLM", "RAG", "MCP"
     );
 
     @Override
@@ -145,26 +146,7 @@ public class AjitGoud implements BackendEngineer {
 
 <br/>
 
-## `05` &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ajitgoud&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=8B5CF6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitgoud&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitgoud&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajitgoud&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=c9d1d9" />
-
-</div>
-
-<br/>
-
-## `06` &nbsp;Currently Exploring
+## `05` &nbsp;Currently Exploring
 
 <div align="center">
 
@@ -173,14 +155,6 @@ public class AjitGoud implements BackendEngineer {
 | Advanced Java · Spring Boot | Scalability · Caching | LLM Apps · RAG | AWS · Docker |
 | Microservices · Kafka | Messaging · Reliability | Vector DBs · MCP | Kubernetes · CI/CD |
 
-</div>
-
-<br/>
-
-## `07` &nbsp;Trophy Case
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ajitgoud&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
 </div>
 
 <br/>
